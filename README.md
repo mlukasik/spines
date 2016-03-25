@@ -3,13 +3,6 @@ The common approach in morphological analysis of dendritic spines is to categori
 
 However, there is a lack of methods allowing for an automatic distinction between dendritic spine subpopulations. Although a variety of automatic spine segmentation and feature extraction methods were developed recently, no approaches allowing for an automatic and unbiased distinction between dendritic spine subpopulations and detailed computational models of spine behavior exist. To fill this gap, we provide a software that provide insight into dendritic spine shape taxonomy and transitions in time.
 
-# Publication
-The software is a part of the following publication:
-
-`T. Kusmierczyk, M. Lukasik, M. Magnowska, M. Roszkowska, D. Plewczynski: Computational approach to dendritic spine taxonomy and shape transition analysis. Neurinformatics (submitted). 2015.`
-
-that should be cited when the software is used.
-
 # Software description
 We propose an automatic and statistically based method for the unsupervised construction of spine shape taxonomy based on arbitrary features. The taxonomy is utilized in the newly introduced computational model of behavior, which relies on transitions between shapes. Models of two different populations can be compared using supplied bootstrap-based statistical tests. The comparison of shape transition characteristics allows to identify differences between population behaviors. 
 
