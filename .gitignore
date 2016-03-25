@@ -1,0 +1,18 @@
+.RData
+.Rhistory
+*~
+*.pyc
+*.bak
+*.swp
+
+#PROJECT FILES:
+*.project
+*.pydevproject
+
+#RESULTS:
+RES_*
+results_*
+wyniki_*
+
+#INPUT DATA:
+data_*
